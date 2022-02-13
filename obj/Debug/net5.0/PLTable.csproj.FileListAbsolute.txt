@@ -24,7 +24,6 @@ C:\git\Website\PLTable\obj\Debug\net5.0\PLTable.TagHelpers.input.cache
 C:\git\Website\PLTable\obj\Debug\net5.0\PLTable.TagHelpers.output.cache
 C:\git\Website\PLTable\obj\Debug\net5.0\PLTable.RazorCoreGenerate.cache
 C:\git\Website\PLTable\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\git\Website\PLTable\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
 C:\git\Website\PLTable\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
 C:\git\Website\PLTable\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\git\Website\PLTable\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -38,3 +37,4 @@ C:\git\Website\PLTable\obj\Debug\net5.0\ref\PLTable.dll
 C:\git\Website\PLTable\obj\Debug\net5.0\PLTable.pdb
 C:\git\Website\PLTable\obj\Debug\net5.0\PLTable.genruntimeconfig.cache
 C:\git\Website\PLTable\obj\Debug\net5.0\PLTable.csproj.CopyComplete
+C:\git\Website\PLTable\obj\Debug\net5.0\Razor\Pages\Home.cshtml.g.cs
