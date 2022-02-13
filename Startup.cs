@@ -41,7 +41,7 @@ namespace PLTable
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
+            app.UseFileServer();
 
             app.UseRouting();
 
